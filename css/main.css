@@ -27,7 +27,11 @@ ul, nav {
 }
 
 #contents, #favs, #facts, #types {
-  color: #b58900;
+  color: #93a1a1;
+}
+
+div {
+  background-color: #b58900
 }
 
 div stong:nth-child(2) {
