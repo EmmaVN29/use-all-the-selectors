@@ -1,4 +1,4 @@
-html{
+html {
   box-sizing: border-box;
 }
 
@@ -15,7 +15,7 @@ header, footer {
 }
 
 ul, nav {
-  font-family: sans-seif;
+  font-family: sans-serif;
 }
 
 .logo {
@@ -31,15 +31,15 @@ ul, nav {
 }
 
 div {
-  background-color: #b58900
+  background-color: #b58900;
 }
 
-div stong:nth-child(2) {
+div strong:nth-child(2) {
   color: #fff;
 }
 
 li > a {
-  background-color: #719e47;
+  background-color: #719e07;
 }
 
 ul li {
